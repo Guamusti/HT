@@ -1,0 +1,205 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1450" viewBox="0 0 1440 1450">
+<rect width="1440" height="1450" fill="#090c14"/>
+<style>text{font-family:Arial,sans-serif;fill:#e9edf6}.muted{fill:#96a0b6}.accent{fill:#b4a1ff}.gold{fill:#f4ce80}</style>
+<text x="36" y="45" font-size="28" class="">HT / Personal Progress</text>
+<text x="36" y="73" font-size="15" class="muted">Primer approach · datos ficticios · progreso por habilidades</text>
+<rect x="32" y="102" width="856" height="548" rx="18" fill="#111725"/>
+<text x="56" y="138" font-size="20" class="">01 / Dashboard</text>
+<path d="M56 156H864" stroke="#30384c"/>
+<rect x="48" y="175" width="145" height="32" rx="6" fill="#2d254b"/>
+<text x="60" y="196" font-size="14" class="accent">Dashboard</text>
+<text x="60" y="239" font-size="14" class="muted">Inbox</text>
+<text x="60" y="282" font-size="14" class="muted">Skills</text>
+<text x="60" y="325" font-size="14" class="muted">Quests</text>
+<text x="60" y="368" font-size="14" class="muted">Timeline</text>
+<text x="60" y="411" font-size="14" class="muted">Achievements</text>
+<text x="60" y="454" font-size="14" class="muted">Weekly Review</text>
+<text x="60" y="497" font-size="14" class="muted">Profile</text>
+<text x="60" y="540" font-size="14" class="muted">Settings</text>
+<text x="220" y="198" font-size="24" class="">Buenas tardes, Marcos</text>
+<rect x="704" y="169" width="157" height="36" rx="8" fill="#7354da"/>
+<text x="716" y="192" font-size="14" class="">+ Add Activity</text>
+<rect x="220" y="221" width="196" height="76" rx="12" fill="#1a2031"/>
+<text x="234" y="247" font-size="13" class="muted">XP actividad / semana</text>
+<text x="234" y="277" font-size="25" class="gold">+245</text>
+<rect x="435" y="221" width="196" height="76" rx="12" fill="#1a2031"/>
+<text x="449" y="247" font-size="13" class="muted">Racha actual</text>
+<text x="449" y="277" font-size="25" class="gold">4 días</text>
+<rect x="650" y="221" width="196" height="76" rx="12" fill="#1a2031"/>
+<text x="664" y="247" font-size="13" class="muted">Quests activas</text>
+<text x="664" y="277" font-size="25" class="gold">3</text>
+<rect x="220" y="315" width="196" height="106" rx="12" fill="#1a2031"/>
+<text x="234" y="342" font-size="16" class="">Programming</text>
+<text x="234" y="369" font-size="22" class="accent">Level 18</text>
+<text x="234" y="392" font-size="12" class="muted">14.720 XP</text>
+<rect x="234" y="402" width="166" height="7" rx="3" fill="#30384c"/>
+<rect x="234" y="402" width="24.9" height="7" rx="3" fill="#9c85fa"/>
+<rect x="435" y="315" width="196" height="106" rx="12" fill="#1a2031"/>
+<text x="449" y="342" font-size="16" class="">Business</text>
+<text x="449" y="369" font-size="22" class="accent">Level 10</text>
+<text x="449" y="392" font-size="12" class="muted">4.090 XP</text>
+<rect x="449" y="402" width="166" height="7" rx="3" fill="#30384c"/>
+<rect x="449" y="402" width="6.640000000000001" height="7" rx="3" fill="#9c85fa"/>
+<rect x="650" y="315" width="196" height="106" rx="12" fill="#1a2031"/>
+<text x="664" y="342" font-size="16" class="">Fitness</text>
+<text x="664" y="369" font-size="22" class="accent">Level 5</text>
+<text x="664" y="392" font-size="12" class="muted">910 XP</text>
+<rect x="664" y="402" width="166" height="7" rx="3" fill="#30384c"/>
+<rect x="664" y="402" width="39.839999999999996" height="7" rx="3" fill="#9c85fa"/>
+<text x="220" y="453" font-size="15" class="">Actividad · últimas 12 semanas</text>
+<rect x="220" y="467" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="220" y="482" width="11" height="11" rx="2" fill="#7659b9"/>
+<rect x="220" y="497" width="11" height="11" rx="2" fill="#493974"/>
+<rect x="220" y="512" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="220" y="527" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="220" y="542" width="11" height="11" rx="2" fill="#af91ff"/>
+<rect x="220" y="557" width="11" height="11" rx="2" fill="#7659b9"/>
+<rect x="235" y="467" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="235" y="482" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="235" y="497" width="11" height="11" rx="2" fill="#7659b9"/>
+<rect x="235" y="512" width="11" height="11" rx="2" fill="#493974"/>
+<rect x="235" y="527" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="235" y="542" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="235" y="557" width="11" height="11" rx="2" fill="#af91ff"/>
+<rect x="250" y="467" width="11" height="11" rx="2" fill="#493974"/>
+<rect x="250" y="482" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="250" y="497" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="250" y="512" width="11" height="11" rx="2" fill="#7659b9"/>
+<rect x="250" y="527" width="11" height="11" rx="2" fill="#493974"/>
+<rect x="250" y="542" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="250" y="557" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="265" y="467" width="11" height="11" rx="2" fill="#7659b9"/>
+<rect x="265" y="482" width="11" height="11" rx="2" fill="#493974"/>
+<rect x="265" y="497" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="265" y="512" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="265" y="527" width="11" height="11" rx="2" fill="#7659b9"/>
+<rect x="265" y="542" width="11" height="11" rx="2" fill="#493974"/>
+<rect x="265" y="557" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="280" y="467" width="11" height="11" rx="2" fill="#af91ff"/>
+<rect x="280" y="482" width="11" height="11" rx="2" fill="#7659b9"/>
+<rect x="280" y="497" width="11" height="11" rx="2" fill="#493974"/>
+<rect x="280" y="512" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="280" y="527" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="280" y="542" width="11" height="11" rx="2" fill="#7659b9"/>
+<rect x="280" y="557" width="11" height="11" rx="2" fill="#493974"/>
+<rect x="295" y="467" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="295" y="482" width="11" height="11" rx="2" fill="#af91ff"/>
+<rect x="295" y="497" width="11" height="11" rx="2" fill="#7659b9"/>
+<rect x="295" y="512" width="11" height="11" rx="2" fill="#493974"/>
+<rect x="295" y="527" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="295" y="542" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="295" y="557" width="11" height="11" rx="2" fill="#7659b9"/>
+<rect x="310" y="467" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="310" y="482" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="310" y="497" width="11" height="11" rx="2" fill="#af91ff"/>
+<rect x="310" y="512" width="11" height="11" rx="2" fill="#7659b9"/>
+<rect x="310" y="527" width="11" height="11" rx="2" fill="#493974"/>
+<rect x="310" y="542" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="310" y="557" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="325" y="467" width="11" height="11" rx="2" fill="#493974"/>
+<rect x="325" y="482" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="325" y="497" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="325" y="512" width="11" height="11" rx="2" fill="#af91ff"/>
+<rect x="325" y="527" width="11" height="11" rx="2" fill="#7659b9"/>
+<rect x="325" y="542" width="11" height="11" rx="2" fill="#493974"/>
+<rect x="325" y="557" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="340" y="467" width="11" height="11" rx="2" fill="#7659b9"/>
+<rect x="340" y="482" width="11" height="11" rx="2" fill="#493974"/>
+<rect x="340" y="497" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="340" y="512" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="340" y="527" width="11" height="11" rx="2" fill="#af91ff"/>
+<rect x="340" y="542" width="11" height="11" rx="2" fill="#7659b9"/>
+<rect x="340" y="557" width="11" height="11" rx="2" fill="#493974"/>
+<rect x="355" y="467" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="355" y="482" width="11" height="11" rx="2" fill="#7659b9"/>
+<rect x="355" y="497" width="11" height="11" rx="2" fill="#493974"/>
+<rect x="355" y="512" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="355" y="527" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="355" y="542" width="11" height="11" rx="2" fill="#af91ff"/>
+<rect x="355" y="557" width="11" height="11" rx="2" fill="#7659b9"/>
+<rect x="370" y="467" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="370" y="482" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="370" y="497" width="11" height="11" rx="2" fill="#7659b9"/>
+<rect x="370" y="512" width="11" height="11" rx="2" fill="#493974"/>
+<rect x="370" y="527" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="370" y="542" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="370" y="557" width="11" height="11" rx="2" fill="#af91ff"/>
+<rect x="385" y="467" width="11" height="11" rx="2" fill="#493974"/>
+<rect x="385" y="482" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="385" y="497" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="385" y="512" width="11" height="11" rx="2" fill="#7659b9"/>
+<rect x="385" y="527" width="11" height="11" rx="2" fill="#493974"/>
+<rect x="385" y="542" width="11" height="11" rx="2" fill="#242d3e"/>
+<rect x="385" y="557" width="11" height="11" rx="2" fill="#242d3e"/>
+<text x="430" y="491" font-size="15" class="">Gym · Fitness +40 XP</text>
+<text x="430" y="521" font-size="14" class="">Trabajo en proyecto · Programming +50 XP</text>
+<text x="430" y="551" font-size="14" class="">Networking · Business +25 XP</text>
+<text x="220" y="618" font-size="13" class="muted">Sin puntuación global. Tu progreso tiene varias dimensiones.</text>
+<rect x="912" y="102" width="496" height="548" rx="18" fill="#111725"/>
+<text x="936" y="138" font-size="20" class="">02 / Skill · Programming</text>
+<path d="M936 156H1384" stroke="#30384c"/>
+<text x="940" y="203" font-size="38" class="accent">Level 18</text>
+<text x="940" y="236" font-size="15" class="muted">14.720 XP · faltan 1.480 para Level 19</text>
+<rect x="940" y="255" width="436" height="7" rx="3" fill="#30384c"/>
+<rect x="940" y="255" width="66.708" height="7" rx="3" fill="#9c85fa"/>
+<text x="940" y="305" font-size="17" class="">Evolución de XP</text>
+<path d="M942 404L1004 397L1050 375L1110 367L1170 337L1230 330L1295 301L1374 280" fill="none" stroke="#ac93ff" stroke-width="3"/>
+<text x="940" y="441" font-size="13" class="muted">Septiembre 2026</text>
+<text x="940" y="479" font-size="16" class="">Quest relacionada</text>
+<rect x="940" y="494" width="436" height="66" rx="12" fill="#1a2031"/>
+<text x="954" y="520" font-size="16" class="">Terminar el MVP de HT</text>
+<text x="954" y="545" font-size="13" class="muted">2 / 5 entregables · recompensa +100 XP</text>
+<text x="940" y="605" font-size="14" class="gold">Logros: Code Apprentice · Level 10</text>
+<rect x="32" y="674" width="668" height="362" rx="18" fill="#111725"/>
+<text x="56" y="710" font-size="20" class="">03 / Inbox · revisión antes de conceder XP</text>
+<path d="M56 728H676" stroke="#30384c"/>
+<text x="60" y="775" font-size="22" class="">GitHub / HT · 7 commits</text>
+<text x="60" y="805" font-size="15" class="accent">Programming · propuesta +35 XP · hoy</text>
+<text x="60" y="840" font-size="14" class="muted">Ver 7 evidencias · editar título, skill, XP o fecha</text>
+<rect x="60" y="861" width="110" height="36" rx="8" fill="#7354da"/>
+<text x="72" y="884" font-size="14" class="">Confirm</text>
+<rect x="184" y="861" width="88" height="36" rx="8" fill="#7354da"/>
+<text x="196" y="884" font-size="14" class="">Edit</text>
+<rect x="286" y="861" width="100" height="36" rx="8" fill="#30384c"/>
+<text x="301" y="884" font-size="14" class="">Reject</text>
+<text x="60" y="945" font-size="17" class="">Histórico / marzo 2026 · 142 commits</text>
+<text x="60" y="973" font-size="14" class="gold">Incluido en baseline: sólo evidencia, +0 XP adicional</text>
+<text x="60" y="1004" font-size="13" class="muted">Revisar miembros antes de confirmar el grupo</text>
+<rect x="724" y="674" width="684" height="362" rx="18" fill="#111725"/>
+<text x="748" y="710" font-size="20" class="">04 / Onboarding · tu punto de partida</text>
+<path d="M748 728H1384" stroke="#30384c"/>
+<text x="752" y="775" font-size="16" class="accent">1 Perfil    /    2 Skills    /    3 Historia</text>
+<text x="752" y="813" font-size="23" class="">Nivel inicial aproximado</text>
+<rect x="752" y="838" width="184" height="62" rx="12" fill="#1a2031"/>
+<text x="764" y="862" font-size="14" class="">Programming</text>
+<text x="764" y="886" font-size="17" class="accent">Level 18</text>
+<rect x="956" y="838" width="184" height="62" rx="12" fill="#1a2031"/>
+<text x="968" y="862" font-size="14" class="">Business</text>
+<text x="968" y="886" font-size="17" class="accent">Level 10</text>
+<rect x="1160" y="838" width="184" height="62" rx="12" fill="#1a2031"/>
+<text x="1172" y="862" font-size="14" class="">Fitness</text>
+<text x="1172" y="886" font-size="17" class="accent">Level 5</text>
+<text x="752" y="929" font-size="15" class="">Fecha de corte: 29 septiembre 2026</text>
+<text x="752" y="958" font-size="14" class="muted">Se conserva como XP initial_baseline, con su motivo.</text>
+<rect x="752" y="979" width="201" height="36" rx="8" fill="#7354da"/>
+<text x="764" y="1002" font-size="14" class="">Añadir primer milestone</text>
+<rect x="32" y="1060" width="1376" height="358" rx="18" fill="#111725"/>
+<text x="56" y="1096" font-size="20" class="">05 / Timeline · memoria de tu progreso</text>
+<path d="M56 1114H1384" stroke="#30384c"/>
+<rect x="64" y="1141" width="9" height="9" rx="4" fill="#c1a2ff"/>
+<text x="88" y="1162" font-size="14" class="muted">30 sep 2026</text>
+<text x="275" y="1162" font-size="20" class="">Programming → Level 18</text>
+<text x="275" y="1186" font-size="14" class="muted">Actividad confirmada · práctica actual</text>
+<rect x="64" y="1215" width="9" height="9" rx="4" fill="#c1a2ff"/>
+<text x="88" y="1236" font-size="14" class="muted">≈ dic 2025</text>
+<text x="275" y="1236" font-size="20" class="gold">First Paying Customer</text>
+<text x="275" y="1260" font-size="14" class="muted">Achievement histórico · fecha aproximada conservada</text>
+<rect x="64" y="1289" width="9" height="9" rx="4" fill="#c1a2ff"/>
+<text x="88" y="1310" font-size="14" class="muted">≈ 2022</text>
+<text x="275" y="1310" font-size="20" class="">First Python project</text>
+<text x="275" y="1334" font-size="14" class="muted">Milestone histórico · Programming</text>
+<text x="1016" y="1139" font-size="14" class="accent">Filtros: skill / tipo / fecha</text>
+<text x="1016" y="1192" font-size="14" class="">Los milestones no dan XP</text>
+<text x="1016" y="1216" font-size="14" class="">automáticamente.</text>
+<text x="1016" y="1283" font-size="13" class="muted">Fecha desconocida: sección propia.</text>
+</svg>
